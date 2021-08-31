@@ -1,0 +1,43 @@
+<!DOCTYPE html>
+<html lang='tr'>
+<head>
+  <meta charset='UTF8'> <!---"ISO-8859-1"--->  
+  <title>Nyarlko, GPS</title>
+  <link rel="stylesheet" href="https://www.nyarlko.com/style.css">
+  <meta http-equiv="Cache-Control" content="no-cache, no-store, must-revalidate" />
+  <meta http-equiv="Pragma" content="no-cache" />
+  <meta http-equiv="Expires" content="0" />
+  <script src="https://www.nyarlko.com/jquery-3.6.0.min.js" async></script>
+  <script type="text/javascript" src="https://maps.googleapis.com/maps/api/js?key=AIzaSyCqtAwURKolIi5LqMaEtAnmOKs61MCcRZE&libraries=geometry"></script>
+  <script src="https://www.nyarlko.com/ibb.js" async></script>
+  <link rel="icon" href="https://nyarlko.com/favicon.ico">
+</head>
+<body style="margin:0px; padding:0px;">
+  <center>
+  <br><b>Adres: </b></br>
+  <input id="adres" size="25" value="T.C. İstanbul Büyükşehir Belediyesi Başkanlığı" placeholder="Adres giriniz">
+  <br><b>Dakika: </b></br>
+  <input type="number" id="dakika" min="1" max="10000" size="5" value="10" placeholder="Dakika, Sayı. (örnek:15)"/>  
+  <br><b>Gidiş Yöntemi: </b></br>
+  <select id="gidis_yontemi">
+    <option value=1>Araba</option>
+    <option value=2>Yaya</option>
+    <option value=3>Bisiklet</option>
+    <option value=4>Toplu Taşıma</option>
+  </select>
+  <br><b>Sorgulama Modu: </b></br>
+  <select id="sorgulama_modu">
+    <option value=1>Otomatik konum bulma</option>
+    <option value=2>Adresi elle girme</option>
+  </select>
+  <br></br>
+  <div id="kon_bul"  style="width:250px; height:50px;">
+  <button onClick="konumuAcKapa()">Gidilebilecek yerleri bul</button><!--/div-->
+  <button onClick="anlik_konumu_bul()">Konumu Göster</button></div>
+  </center>
+  <!--div id="map_arayuzu"  style="width:1250px; height:550px;"></div-->
+  <div id="map_arayuzu"></div>
+<!-- 16 Ağustos 2021 - 30 Ağustos 2021 nyarlko tarafından ❤ ile kodlanmıştır! -->
+  <center><small>2021 © Nyarlko Tüm hakları gizlidir.</small></center>
+</body>
+</html>

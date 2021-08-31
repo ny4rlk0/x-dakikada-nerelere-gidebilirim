@@ -1,0 +1,65 @@
+{
+	"veritabani": 
+	[
+		{
+			"type": "Hospital",
+			"name": "Haseki Eğitim ve Araştırma Hastanesi",
+			"lat": 41.008995040019606,
+			"lng": 28.94609990728967
+		},
+		{
+			"type": "Hotel",
+			"name": "Söğüt Hotel & SPA",
+			"lat": 41.012846369714396,
+			"lng": 28.955315586583936
+		},
+		{
+			"type": "shopping_mall",
+			"name": "Bisikletçiler Çarşısı",
+			"lat": 41.014758554322725,
+			"lng": 28.95432192194311
+		},
+		{
+			"type": "cafe",
+			"name": "Vefa Bozacısı",
+			"lat": 41.01536206176243,
+			"lng": 28.95838106367391
+		},
+		{
+			"type": "Hospital",
+			"name": "İstanbul Eğitim ve Araştırma Hastanesi",
+			"lat": 41.00332174950435,
+			"lng": 28.93773488338158
+		},
+		{
+			"type": "restaurant",
+			"name": "McDonald's",
+			"lat": 41.004368650362714, 
+			"lng": 28.891629247851384
+		}, 
+		{
+			"type": "restaurant",
+			"name": "Sular Vadisi",
+			"lat": 41.084888071690095,
+			"lng": 28.809352453736153
+		}, 
+		{
+			"type": "park",
+			"name": "Saklıbahçe Tesisleri Et Mangal Kahvaltı",  
+			"lat": 41.123107417514525,
+			"lng": 28.7479781202507
+		}, 
+		{
+			"type": "restaurant",
+			"name": "Nokta Tesisleri Kuyu Kebabı",  
+			"lat": 41.1546815316691,
+			"lng": 28.787997979100727
+		}, 
+		{  
+			"type": "restaurant",
+			"name": "Tavşan Vadisi",  
+			"lat": 41.20140559039994,
+			"lng": 28.446455684607535
+		}
+	]
+}
