@@ -3,4 +3,6 @@ GPS-Javascript-GoogleMaps
 
 https://www.nyarlko.com/ibb
 
-Sonradan değişiklik yapmak hoş değil ilk ilan verdiğinizde istediğiniz apiyi kullanabiliyorsunuz demiştiniz.
+veritabani.json içerisini gitmek istediğiniz konumların adreslerini ekleyin.
+Dakikayı girin.
+Dakika içinde gidebileceğiniz adreslerin yol tarifini haritadan alın.
