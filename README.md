@@ -1,6 +1,12 @@
 # GPS-Javascript
 GPS-Javascript-GoogleMaps
 
+Nedir?
+
+Kaç dakikada hangi araçla bulunduğunuz konumdan nerelere gidebileceğinizi hesaplayan sistemdir.
+
+Javascript ve HTML ile Google Servislerinden yararlanarak yazılmıştır.
+
 https://www.nyarlko.com/ibb (Kapatılabilir.)
 
 veritabani.json içerisini gitmek istediğiniz konumların adreslerini ekleyin.
