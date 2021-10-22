@@ -9,7 +9,7 @@ Javascript ve HTML ile Google Servislerinden yararlanarak yazılmıştır.
 
 https://www.nyarlko.com/ibb (Kapatılabilir.)
 
-Api ekyini devre dışı bıraktığım için çalışmıyor isterseniz kendinize google cloud üzerinden gerekli servisleri açarak kendi keyinizle kullanabilirsiniz.
+Api keyini devre dışı bıraktığım için çalışmıyor isterseniz kendinize google cloud üzerinden gerekli servisleri açarak kendi keyinizle kullanabilirsiniz.
 
 veritabani.json içerisini gitmek istediğiniz konumların adreslerini ekleyin.
 Dakikayı girin.
