@@ -10,6 +10,7 @@ Javascript ve HTML ile Google Servislerinden yararlanarak yazılmıştır.
 https://www.nyarlko.com/ibb (Kapatılabilir.)
 
 Api keyini devre dışı bıraktığım için çalışmıyor isterseniz kendinize google cloud üzerinden gerekli servisleri açarak kendi keyinizle kullanabilirsiniz.
+Api keyinizi test ederken ip adresinize testten sonra websitenize sınırlayın. Yoksa başkası sizin keyinizi kullanarak size kabarık bir fatura hediye edebilir.
 
 veritabani.json içerisini gitmek istediğiniz konumların adreslerini ekleyin.
 Dakikayı girin.
