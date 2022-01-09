@@ -21,7 +21,7 @@ Sistemin 2 modu var:
 
 1. Otomatik olarak konumu tespit ediyor. (Bu modda başlıyor zaten.)
 
-2.Adresi elle girme modunu seçerseniz yukarıda girdiğiniz adresi başlangıç noktası olarak alıyor.
+2. Adresi elle girme modunu seçerseniz yukarıda girdiğiniz adresi başlangıç noktası olarak alıyor.
 
 Şu an mevcut olarak IBB binasını test konumu olarak seçtiğim için veri tabanıma oranın yakınındaki 10 konumu ekledim. ( 1dk ile 60 dk arasında konumlar var.)
 
